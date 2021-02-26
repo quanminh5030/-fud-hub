@@ -1,0 +1,24 @@
+body {
+    background-image: url("food_header_background.jpg");
+}
+
+.container-fluid{
+    background-color: whitesmoke;
+    width: 95%;
+}
+
+#logo {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-family: monospace;
+    border: thick solid gray;
+}
+
+a{
+    color: red;
+}

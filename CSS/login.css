@@ -1,0 +1,73 @@
+.form a{
+    float: right;
+    margin-right: 4%;
+}
+
+.form h1{
+    margin: 2% 0 5% 2%;
+}
+
+.form h5{
+    margin: 3% 3% 1.5% 1.5%;
+}
+
+.form .text{
+    border-radius: 5px;
+    border: 1px solid grey;
+    width: 94%;
+    height: 40px;
+    margin: 2%;
+}
+
+.form .name{
+    width: 44.5%;
+}
+
+.form .select{
+    margin-left: 2.5%;
+}
+
+.form .check{
+    margin: 0 1.5% 0 2.5%;
+}
+
+.form p{
+    margin: 4% 2.5%;
+    font-size: 18px;
+}
+
+.form .signup{
+    margin: 4% 2.5%;
+    width: 94%;
+    color: white;
+}
+
+.form .signup:hover, .form .login:hover{
+    background-color: #4bc463;
+}
+
+.form .login{
+    margin: 4% 2.5%;
+    color: white;
+    width: 94%;
+}
+
+.avatar{
+    margin: auto;
+}
+
+.avatarLog{
+    margin: auto;
+}
+
+#logo{
+    width: 50%;
+    margin: 3% 0 0 25%;
+}
+
+.require{
+    color: red;
+    font-size: 20px;
+}
+
+

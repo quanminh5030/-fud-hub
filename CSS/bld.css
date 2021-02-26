@@ -1,0 +1,74 @@
+body{
+    background-image: url("food_header_background.jpg");
+    width: auto !important;
+    overflow-x:hidden !important;
+}
+.container{
+    background-color: white;
+}
+
+
+#recipes{
+    text-align: center;
+    background-color: #f1f1f1 ;}
+
+img#br_img{
+
+    height: 65%;
+    width: 85%;
+    margin-top: 5%;
+    border: 20px ;
+    padding: 10%;
+    border-image: url("border.png") 30 round;
+    text-align: center;
+
+
+}
+#br_img:hover{
+    opacity: 0.5;
+}
+
+
+#heading{
+    font-family: 'Marck Script';
+    font-size: 100%;
+    color: red;
+    background-color: #f1f1f1 ;
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+
+
+
+a:hover{
+    text-decoration: none;
+}
+#loggedin{
+    width: 20%;
+    float: right;
+    margin: 3% 15%;}
+
+
+
+    /* If the screen size is 600px wide or less, set the font-size of <div> to 30px 
+    @media screen and (max-width: 750px) {
+        h1 {
+            font-size: 100%;
+        }
+
+        h3{
+            font-size: 50%;
+        }
+
+        @media screen and (max-width: 220px) {
+            h1 {
+                font-size: 100%;
+            }
+
+            h3{
+                font-size: 30%;
+            }
+        }*/
+    
